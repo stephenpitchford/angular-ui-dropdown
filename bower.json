@@ -1,0 +1,22 @@
+{
+  "name": "angular-ui-dropdown",
+  "version": "0.0.1",
+  "authors": [
+    "Stephen Pitchford <stephen.pitchford@tomtom.com>"
+  ],
+  "description": "Angular UI dropdown as a standalone module to be included in a project without all the other sub-modules in Angular UI",
+  "main": "ui-bootstrap-custom-0.13.0.js",
+  "keywords": [
+    "Angular",
+    "Angular UI",
+    "dropdown"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
